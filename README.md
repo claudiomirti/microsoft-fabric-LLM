@@ -5,3 +5,4 @@
 
 - https://blog.fabric.microsoft.com/en-us/blog/prebuilt-azure-ai-services-in-fabric-2/
 - https://blog.fabric.microsoft.com/en-us/blog/fabric-change-the-game-unleashing-the-power-of-microsoft-fabric-and-openai-for-dataset-search?ft=Data-science:category
+- https://github.com/Azure-Samples/Azure-OpenAI-Docs-Samples
